@@ -50,7 +50,6 @@ footer {
   background: #333;
   color: #fff;
 }
-/* Configuração básica para dispositivos menores */
 @media screen and (max-width: 768px) {
   body {
     font-size: 16px;
